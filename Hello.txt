@@ -1,4 +1,6 @@
 A=30
 B=40
 c=50
-print(A+B)
+print(A+B+c)
+
+
